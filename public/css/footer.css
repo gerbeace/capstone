@@ -1,0 +1,30 @@
+.footer-area {
+    background-color: #531516!important;
+    position: relative;
+}
+.pb-70 {
+    padding-bottom: 70px;
+}
+.pt-100 {
+    padding-top: 100px;
+}
+.footer-widget .footer-title .h3, .footer-widget .footer-title h3 {
+    color: #fff;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1;
+    margin: 0 0 16px;
+}
+ul {
+    list-style: none outside none;
+    margin: 0;
+    padding: 0;
+}
+.copyright p {
+    color: #fff;
+    letter-spacing: .9px;
+}
+.footer-widget .footer-list ul li a {
+    color: #fff;
+    letter-spacing: .3px;
+}
