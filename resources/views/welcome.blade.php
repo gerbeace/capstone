@@ -1,3 +1,1 @@
-@extends('pages.layout')
-@section('content')
-@endsection
+<h2>Hello World !</h2>
